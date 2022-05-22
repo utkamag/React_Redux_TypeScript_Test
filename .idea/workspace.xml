@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="363ea889-b613-4df4-8321-0f3f44a800ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/store/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/src/store/reducers/userReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/store/reducers/userReducer.ts" afterDir="false" />
-    </list>
+    <list default="true" id="363ea889-b613-4df4-8321-0f3f44a800ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +55,7 @@
       <workItem from="1650876697878" duration="43000" />
       <workItem from="1650877414042" duration="72000" />
       <workItem from="1650879656059" duration="3495000" />
-      <workItem from="1650959190514" duration="2887000" />
+      <workItem from="1650959190514" duration="3484000" />
     </task>
     <servers />
   </component>
